@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(136,1): warning C4005: 'COLORONCOLOR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(135): message : see previous definition of 'COLORONCOLOR'
+C:\Users\Tepa6auT\source\repos\Bitmap editor\Source.c(57,22): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bitmap editor.vcxproj -> C:\Users\Tepa6auT\source\repos\Bitmap editor\x64\Release\Bitmap editor.exe
